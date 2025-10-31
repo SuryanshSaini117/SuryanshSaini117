@@ -38,7 +38,7 @@ Here are some of my highlighted projects:
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SuryanshSaini117&show_icons=true&theme=radical" alt="Suryansh's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuryanshSaini117&theme=radical" alt="GitHub Streak"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuryanshSaini117&theme=radical" alt="GitHub Streak"/> -->
 </p>
 
 ---
